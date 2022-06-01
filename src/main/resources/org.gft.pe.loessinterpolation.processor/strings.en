@@ -1,0 +1,14 @@
+org.gft.pe.loessinterpolation.processor.title=Loess Interpolation
+org.gft.pe.loessinterpolation.processor.description=Calculates the loess interpolation of a monitored value over a given time interval if greater than a threshold value.
+
+value.title=Input value to observe
+value.description=Specify value to be monitored
+
+timestamp_value.title = Timestamp
+timestamp_value.description = Timestamp value
+
+threshold.title = Threshold
+threshold.description = Threshold value to apply to interpolation
+
+interpolation_operation.title = Interpolation Operation
+interpolation_operation.description = Choose kind of interpolation to perform
